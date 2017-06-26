@@ -13,11 +13,11 @@ prev = "week1"
 
 Morning:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [Day 1, part 1](https://www.youtube.com/watch?v=Djz4b6mYOqE&index=1&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [2](https://www.youtube.com/watch?v=xDh4WwKtfZs&index=2&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [3](https://www.youtube.com/watch?v=uRA5t8kecso&index=3&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [4](https://www.youtube.com/watch?v=PdHtk1TsYXc&index=4&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [5](https://www.youtube.com/watch?v=TZUPfgSGezc&index=5&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B)
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [Day 1, part 1](https://www.youtube.com/watch?v=Djz4b6mYOqE&index=1&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B)
 
 Afternoon:
 
-* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY_yOPNQJLn2Ya_hfes8g2fv) | [Day 1, part 1](https://www.youtube.com/watch?v=F3WcGMNqdME&list=PLuT2TqJuwaY_yOPNQJLn2Ya_hfes8g2fv&index=1) | [2]() | [3]() | [4]() | [5]()
+* [Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY_yOPNQJLn2Ya_hfes8g2fv) | [Day 1, part 1](https://www.youtube.com/watch?v=F3WcGMNqdME&list=PLuT2TqJuwaY_yOPNQJLn2Ya_hfes8g2fv&index=1)
 
 ## Topics
 
@@ -32,6 +32,7 @@ Afternoon:
 * Basic DOM manipulation
   * `document.querySelector`/`document.querySelectorAll`
   * `.textContent`
+  * `.innerHTML`
 * Developer console
   * `console.log`
   * `debugger`
@@ -40,7 +41,6 @@ Afternoon:
   * `.addEventListener()` - [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
   * `.preventDefault()`
   * `.target`
-* Emmet abbreviations for code editors ([syntax reference](https://docs.emmet.io/abbreviations/syntax/))
 
 ## Examples
 
@@ -105,7 +105,6 @@ button.addEventListener('click', (ev) => {
 * <a target="_blank" href="/bootcamp-success.pdf">Bootcamp Expectations and Tips for Success</a>
 
 ## Links
-* [Foundation CSS Framework](http://foundation.zurb.com)
 * [Mozilla Developer Network (MDN)](https://developer.mozilla.org/en-US/) - An excellent documentation and learning resource for all your HTML/CSS/JS needs
 
 ## Projects
