@@ -1,6 +1,6 @@
 +++
 date = "2017-06-27T09:24:18-04:00"
-title = "Functions and DOM Manipulation"
+title = "Day 2: Functions and the DOM"
 toc = true
 weight = 2
 prev = "week1/day1"
