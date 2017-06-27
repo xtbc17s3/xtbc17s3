@@ -4,6 +4,7 @@ title = "Day 1: Introduction"
 toc = true
 weight = 1
 prev = "week1"
+next = "week1/day2"
 
 +++
 
