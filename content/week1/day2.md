@@ -4,6 +4,7 @@ title = "Day 2: Functions and the DOM"
 toc = true
 weight = 2
 prev = "week1/day1"
+next = "week1/day3"
 
 +++
 
