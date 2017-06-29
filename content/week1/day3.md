@@ -4,6 +4,7 @@ title = "Day 3: Arrays and Objects"
 toc = true
 weight = 3
 prev = "week1/day2"
+next = "week1/day4"
 
 +++
 
@@ -13,7 +14,7 @@ prev = "week1/day2"
 
 Morning:
 
-[Playlist](https://www.youtube.com/watch?v=1tMQlcsg0jc&index=19&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [Day 3, Part 1](https://www.youtube.com/watch?v=1tMQlcsg0jc&index=19&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B)
+[Playlist](https://www.youtube.com/playlist?list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B) | [Day 3, Part 1](https://www.youtube.com/watch?v=1tMQlcsg0jc&index=19&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B)
 
 Afternoon:
 
