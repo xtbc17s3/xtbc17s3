@@ -4,7 +4,7 @@ title = "Day 4: Cloning Elements and Data Attributes"
 toc = true
 weight = 4
 prev = "week1/day3"
-
+next = "week2/"
 +++
 
 <date>Thursday, June 29, 2017</date>
