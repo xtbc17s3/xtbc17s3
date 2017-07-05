@@ -11,6 +11,8 @@ weight = 2
 
 ## Lecture Videos
 
+* [Day 6, part 1](https://www.youtube.com/watch?v=DjSzM3AcNII&list=PLuT2TqJuwaY_yOPNQJLn2Ya_hfes8g2fv&index=67)
+
 Pending
 
 ## Topics
@@ -203,7 +205,7 @@ yarn start
 
 ## Projects
 
-* Noteherder [morning](https://github.com/xtbc17s3/noteherder/tree/26ce21771d9ebc84a4db4ca83e330f20748ca10a)
+* Noteherder [morning](https://github.com/xtbc17s3/noteherder/tree/26ce21771d9ebc84a4db4ca83e330f20748ca10a) | [afternoon](https://github.com/xtbc17s3/noteherder/tree/61c72605e11b80c7e2226f0698797b6728cf263a)
 
 ## Day 7 Homework
 
