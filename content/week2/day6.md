@@ -2,6 +2,7 @@
 date = "2017-05-15T11:13:46-04:00"
 title = "Day 6: React"
 prev="/week2/day5/"
+next="/week2/day6/"
 toc = true
 weight = 2
 
