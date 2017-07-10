@@ -2,6 +2,7 @@
 date = "2017-07-06T10:17:36-04:00"
 title = "Day 7: Props and Destructuring"
 prev = "week2/day6/"
+next = "week3"
 toc = true
 weight = 3
 
@@ -250,6 +251,7 @@ Now, any time we update the state of our app, the changes will sync with Firebas
 {{% aside info "More Re-base Options" %}}
 Re-base can do much more than just syncing state.  There are methods for `fetch`, `push`, `post`, etc.  To find out more about what all you can do with re-base, check out the [README](https://github.com/tylermcginnis/re-base#re-base)
 {{% /aside %}}
+
 
 ## Projects
 

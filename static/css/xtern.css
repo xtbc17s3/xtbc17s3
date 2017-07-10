@@ -714,6 +714,12 @@ div.img.firebase-enable-github {
   width: 567px;
   height: 450px;
 }
+div.img.firebase-enable-google {
+  background-image: url("/images/firebase-enable-google.png");
+  background-size: 567px 400px;
+  width: 567px;
+  height: 450px;
+}
 div.img.github-oauth-new-registration {
   background-image: url("/images/github-oauth-new-registration.png");
   background-size: 567px 400px;
