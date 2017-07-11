@@ -13,7 +13,7 @@ prev = "/week3/day8"
 
 Morning:
 
-* [Day 9, part 1]()
+* [Day 9, part 1](https://www.youtube.com/watch?v=TvDN8nil0Iw&index=100&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B)
 
 Afternoon:
 
