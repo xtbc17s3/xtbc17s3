@@ -4,6 +4,7 @@ title = "Day 8: Firebase Authentication"
 toc = true
 weight = 1
 prev = "week3"
+next = "week3/day9"
 
 +++
 
