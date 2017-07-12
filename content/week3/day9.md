@@ -4,6 +4,7 @@ title = "Day 9: Routing and Fetching"
 toc = true
 weight = 2
 prev = "/week3/day8"
+next = "/week3/day10"
 
 +++
 
