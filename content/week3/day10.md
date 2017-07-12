@@ -13,7 +13,7 @@ prev = "/week3/day9"
 
 Morning: [Day 10, part 1](https://www.youtube.com/watch?v=1Q0aR_l_3ss&index=107&list=PLuT2TqJuwaY882Figl-Tr-VXWweaeS45B)
 
-Afternoon: Coming soon...
+Afternoon: [Day 10, part 1](https://www.youtube.com/watch?v=hZEF1eEBhkQ&list=PLuT2TqJuwaY_yOPNQJLn2Ya_hfes8g2fv&index=114)
 
 ## Topics
 
