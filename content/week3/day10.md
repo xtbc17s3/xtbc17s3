@@ -4,6 +4,7 @@ title = "Day 10: Routing in Noteherder"
 toc = true
 weight = 3
 prev = "/week3/day9"
+next = "/week3/day11"
 
 +++
 
